@@ -20,6 +20,8 @@ namespace TWidgeTemplate
                 return new Controls.MainWidget();
             }
 
+
+            // Настройки
             [WidgetAttribute("Setting")]
             public Dictionary<string, bool> StartSetting()
             {
