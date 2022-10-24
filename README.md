@@ -1,5 +1,5 @@
 # TWidgeTemplate
-Репозиторий со стандартным виджетом времени. 
+Шаблон виджета. 
 # SETTING
 <ul>
   <li>DragStatus - (true/false) перемещается ли виджет. </li>
